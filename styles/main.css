@@ -1,0 +1,15 @@
+#checklist {
+  margin:50px 10px;
+}
+
+li.edit span{
+  display: none;
+}
+
+li.edit input{
+  display: inline;
+}
+
+li input{
+  display:none;
+}
